@@ -9,6 +9,7 @@
  */
 
 #include <Computer.hpp>
+#include <Time.hpp>
 #include "../main.hpp"
 #include "../runtime.hpp"
 #include "../util.hpp"
